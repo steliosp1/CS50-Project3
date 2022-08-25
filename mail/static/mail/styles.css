@@ -1,0 +1,26 @@
+textarea, #compose-body{
+    height: 50vh;
+}
+
+#email-recipient, .heading{
+  font-weight: bold;
+}
+
+#email-card{
+  padding-top: 1%;
+  padding-left: 1%;
+  padding-bottom: 1%;
+  cursor: pointer;
+}
+
+.read{
+  background-color: rgb(243, 243, 243);
+}
+
+#archive-icon{
+  height: 2.5rem;
+}
+
+#email-timestamp{
+  float:right;
+}
